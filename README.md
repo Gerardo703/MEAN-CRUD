@@ -1,6 +1,6 @@
 # MEAN-CRUD
 
-Pequeño CRUD creado con Angular - Express - MongoDB - NodeJS
+Pequeño CRUD creado con <img src="https://img.shields.io/badge/-Angular-black?style=plastic&logo=angular" /> - Express - MongoDB - NodeJS
 
 # FRONT-END:
 
